@@ -1,6 +1,6 @@
 <h2 align="center">⭐️Pancakeswap Web3 Bot GUI (WINDOWS LINUX MAC)⭐️</h2>
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
-
+ 
 ![alt text](https://static.news.bitcoin.com/wp-content/uploads/2017/03/shutterstock_117385867.jpg?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
