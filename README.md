@@ -43,7 +43,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <H2>SCREEN SHOT</H2>
 
-![alt text](https://github.com/CRYPTOOTRADER/Pancakeswap-Sniper-Bot-GUI-Uniswap-Matic-2022/blob/main/pancakeswap-gui.gif?raw=true "GIF application")
+![alt text](https://github.com/DoctorsWeb/Pancakeswap-Web3-Bot-GUI--WIN-LINUX-MAC/blob/main/pancakeswap-gui.gif?raw=true "GIF application")
 
 
 <H2>Functions</H2>
@@ -95,7 +95,3 @@ If you dont want to wait till the token1 is sold for the maincoinoption, because
 - set stop-less price
 - Speed adjustable
 - The program determines the name and decimals of the token automatically
-
-
-## Trailing-Stop-Loss:
-<img src="http://www.financial-spread-betting.com/community/wp-content/uploads/2011/11/trailing-stop-buy.jpg" height="400">
