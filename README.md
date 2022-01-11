@@ -1,6 +1,6 @@
 <h2 align="center">Pancakeswap Sniper Bot GUI Uniswap Matic 2022 (WINDOWS LINUX MAC)</h2>
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
- 
+
 
 ![alt text](https://static.news.bitcoin.com/wp-content/uploads/2017/03/shutterstock_117385867.jpg?raw=true "GIF application")
  
