@@ -1,5 +1,5 @@
-<h1 align="center">⭐️Pancakeswap Web3 Bot GUI (WINDOWS LINUX MAC)⭐️</h1>
-<h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
+<h2 align="center">⭐️Pancakeswap Web3 Bot GUI (WINDOWS LINUX MAC)⭐️</h2>
+<h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
  
 ![alt text](https://static.news.bitcoin.com/wp-content/uploads/2017/03/shutterstock_117385867.jpg?raw=true "GIF application")
  
