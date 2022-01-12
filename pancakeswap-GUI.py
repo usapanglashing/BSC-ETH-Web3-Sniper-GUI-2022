@@ -1,6 +1,6 @@
 #!python
 # cython: language_level=3
-
+ 
 import datetime
 from itertools import permutations
 import time
