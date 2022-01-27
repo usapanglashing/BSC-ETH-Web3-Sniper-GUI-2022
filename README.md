@@ -39,11 +39,6 @@ python -m pip install -r requirements.txt
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
 
-<H2>SCREEN SHOT</H2>
-
-![alt text](https://github.com/DoctorsWeb/Pancakeswap-Web3-Bot-GUI--WIN-LINUX-MAC/blob/main/pancakeswap-gui.gif?raw=true "GIF application")
-
-
 <H2>Functions</H2>
 
 <b>Main coin/token</b>: The token or coin you want to trade tokens for and with
