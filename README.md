@@ -27,7 +27,6 @@ Install Requirements:
 python -m pip install -r requirements.txt
 ```  
 
-
 <H2>HOW TO USE</H2>
 
 1. An ethereum/bsc address.
